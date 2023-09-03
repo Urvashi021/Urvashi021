@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Urvashi Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi021&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvashi021" alt="urvashi021" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/urvashi021](https://github.com/urvashi021)
 
 - 📫 How to reach me **parmarurvashi01@gmail.com**
@@ -22,4 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urvashi021&show_icons=true&locale=en" alt="urvashi021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi021&" alt="urvashi021" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi021&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi021" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvashi021" alt="urvashi021" /></a> </p>
+
 
